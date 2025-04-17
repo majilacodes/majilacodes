@@ -1,7 +1,7 @@
 <img src = "Blue Modern Motivational LinkedIn Banner.jpg" width = "100%" />
 
 # Hello World, I am Akshat Majila 👋
-💻 I'm a curious and driven Computer Science student who loves building tech that solves real-world problems.<br><br>🤖 I enjoy working on projects in AI, machine learning, and software development, especially those that mix creativity with impact.<br><br>🧩 Outside of coding, I'm into hackathons, tech events, yoga 🧘, and chess ♟️—always looking for ways to grow, explore, and collaborate.<br>
+💻 I'm a curious and driven Computer Science student who loves building tech that solves real-world problems.<br><br>🤖 I enjoy working on projects in AI, machine learning, and software development, especially those that mix creativity with impact.<br><br>🧩 Outside of coding, I'm into hackathons, tech events, yoga , and chess —always looking for ways to grow, explore, and collaborate.<br>
 
 
 ## 🌐 Socials:
