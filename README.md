@@ -1,13 +1,10 @@
 <img src = "Blue Modern Motivational LinkedIn Banner.jpg" width = "100%" />
 
-<h1 align="center">Hello World, I'm Akshat Majila 👋</h1>
+<h1 align="center">Hello World, I'm Akshat Majila!</h1>
 <p>
   
 </p>
-<p align="center">
-💻 Curious Computer Science student <br>
-🤖 AI & ML enthusiast | Software Builder <br>
-🧩 Hackathon lover | Yoga & Chess nerd
+I'm an AI Engineer and forever a student of the craft. I spend my days building AI systems that are smarter than me and my nights wondering if that's a good idea. What drives me beyond the technical challenges is my entrepreneurial spirit — the conviction that technology should be a bridge to a better world, not just a showcase of what's possible. 
 </p>
 
 
